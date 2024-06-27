@@ -1,7 +1,4 @@
-<a name="br5"></a> 
-
 **Executive Summary:**
-
 
 This analysis of Airbnb’s dataset using advanced Text Mining provided business insights
 
@@ -20,9 +17,6 @@ highlighted through extensive data analysis, Airbnb can use this information to 
 improvements to its business that will increase the company’s competitive advantage by being
 
 more ‘on message’ with what guests’ value most.
-
-
-<a name="br5"></a> 
 
 
 **Visualizations Description:**
@@ -85,9 +79,6 @@ viewpoints or functional roles, allowing for a multidimensional perspective on t
 \- pinpointing customers' preferences - while offering the potential to achieve optimal decisions in
 
 the data age.
-
-
-<a name="br5"></a> 
 
 
 **Key Findings & Business Insights:**
